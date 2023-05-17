@@ -1,0 +1,14 @@
+subj_code,age,education,gender,job_position,hrs_tot,bai_tot,bdi_tot,ocir_tot,ocir_washing,ocir_obsessing,ocir_ordering,ocir_hoarding,ocir_checking,ocir_neutralizing,eat26_tot,bis11_tot,group
+ma_za_1959_12_04_04_f,83,5,Femmina,pensione,20,9,1,13,1,3,1,7,1,0,7,52,patients
+pa_me_1968_07_10_05_f,54,15,Femmina,lavora,25,23,31,32,0,5,12,8,5,2,8,63,patients
+an_ve_1958_08_15_010_f,64,13,Femmina,pensione,30,20,26,15,2,3,2,3,2,3,50,61,patients
+fa_fa_1974_05_14_03_f,48,14,Femmina,lavora,28,12,12,14,0,3,0,9,1,1,2,61,patients
+al_ba_1948_06_19_00_f,74,15,Femmina,pensione,9,15,9,6,1,0,2,2,1,0,3,64,patients
+gi_ba_1958_08_17_01_m,64,8,Maschio,lavora presso la sua officina,16,4,8,4,0,0,0,4,0,0,0,71,patients
+lo_va_1955_11_25_06_f,66,13,Femmina,lavora,16,10,14,20,3,5,3,6,3,0,4,57,patients
+mo_ma_1961_04_20_011_f,61,13,Femmina,lavora,26,26,21,20,0,8,2,13,,0,5,67,patients
+mi_ca_1952_10_28_012_f,71,15,Femmina,mai lavorato,29,16,22,33,4,11,4,11,2,1,0,69,patients
+vi_sc_1972_08_21_08_m,50,8,Maschio,mai lavorato,21,5,18,14,0,3,2,6,3,0,9,62,patients
+ma_be_1967_07_20_015_f,56,13,Femmina,lavora,28,5,0,8,0,0,1,6,1,0,1,59,patients
+cl_pa_1961_05_23_014_f,62,8,Femmina,mai lavorato,21,10,11,,,,,,,,0,,patients
+gi_ca_1956_07_06_016_f,67,13,Femmina,pensione,31,26,38,15,,,,,,,,,patients
